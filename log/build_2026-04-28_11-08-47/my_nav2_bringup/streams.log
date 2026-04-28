@@ -1,0 +1,64 @@
+[0.017s] Invoking command in '/home/kevin/ros2_ws/nav2/build/my_nav2_bringup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/kevin/ros2_ws/nav2/src/my_nav2_bringup -DCMAKE_INSTALL_PREFIX=/home/kevin/ros2_ws/nav2/install/my_nav2_bringup
+[0.070s] -- The C compiler identification is GNU 11.4.0
+[0.184s] -- The CXX compiler identification is GNU 11.4.0
+[0.211s] -- Detecting C compiler ABI info
+[0.481s] -- Detecting C compiler ABI info - done
+[0.502s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.502s] -- Detecting C compile features
+[0.503s] -- Detecting C compile features - done
+[0.511s] -- Detecting CXX compiler ABI info
+[0.703s] -- Detecting CXX compiler ABI info - done
+[0.734s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.735s] -- Detecting CXX compile features
+[0.737s] -- Detecting CXX compile features - done
+[0.745s] -- Found ament_cmake: 1.3.14 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.107s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.331s] -- Found ament_lint_auto: 0.12.15 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.511s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.515s] -- Added test 'lint_cmake' to check CMake code style
+[1.515s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.518s] -- Added test 'xmllint' to check XML markup files
+[1.521s] -- Configuring done
+[1.527s] -- Generating done
+[1.531s] -- Build files have been written to: /home/kevin/ros2_ws/nav2/build/my_nav2_bringup
+[1.540s] Invoked command in '/home/kevin/ros2_ws/nav2/build/my_nav2_bringup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/kevin/ros2_ws/nav2/src/my_nav2_bringup -DCMAKE_INSTALL_PREFIX=/home/kevin/ros2_ws/nav2/install/my_nav2_bringup
+[1.544s] Invoking command in '/home/kevin/ros2_ws/nav2/build/my_nav2_bringup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/kevin/ros2_ws/nav2/build/my_nav2_bringup -- -j12 -l12
+[1.637s] Invoked command in '/home/kevin/ros2_ws/nav2/build/my_nav2_bringup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/kevin/ros2_ws/nav2/build/my_nav2_bringup -- -j12 -l12
+[1.641s] Invoking command in '/home/kevin/ros2_ws/nav2/build/my_nav2_bringup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/kevin/ros2_ws/nav2/build/my_nav2_bringup
+[1.666s] -- Install configuration: ""
+[1.666s] -- Installing: /home/kevin/ros2_ws/nav2/install/my_nav2_bringup/share/ament_index/resource_index/package_run_dependencies/my_nav2_bringup
+[1.667s] -- Installing: /home/kevin/ros2_ws/nav2/install/my_nav2_bringup/share/ament_index/resource_index/parent_prefix_path/my_nav2_bringup
+[1.667s] -- Installing: /home/kevin/ros2_ws/nav2/install/my_nav2_bringup/share/my_nav2_bringup/environment/ament_prefix_path.sh
+[1.670s] -- Installing: /home/kevin/ros2_ws/nav2/install/my_nav2_bringup/share/my_nav2_bringup/environment/ament_prefix_path.dsv
+[1.671s] -- Installing: /home/kevin/ros2_ws/nav2/install/my_nav2_bringup/share/my_nav2_bringup/environment/path.sh
+[1.671s] -- Installing: /home/kevin/ros2_ws/nav2/install/my_nav2_bringup/share/my_nav2_bringup/environment/path.dsv
+[1.672s] -- Installing: /home/kevin/ros2_ws/nav2/install/my_nav2_bringup/share/my_nav2_bringup/local_setup.bash
+[1.672s] -- Installing: /home/kevin/ros2_ws/nav2/install/my_nav2_bringup/share/my_nav2_bringup/local_setup.sh
+[1.672s] -- Installing: /home/kevin/ros2_ws/nav2/install/my_nav2_bringup/share/my_nav2_bringup/local_setup.zsh
+[1.673s] -- Installing: /home/kevin/ros2_ws/nav2/install/my_nav2_bringup/share/my_nav2_bringup/local_setup.dsv
+[1.673s] -- Installing: /home/kevin/ros2_ws/nav2/install/my_nav2_bringup/share/my_nav2_bringup/package.dsv
+[1.673s] -- Installing: /home/kevin/ros2_ws/nav2/install/my_nav2_bringup/share/ament_index/resource_index/packages/my_nav2_bringup
+[1.674s] -- Installing: /home/kevin/ros2_ws/nav2/install/my_nav2_bringup/share/my_nav2_bringup/cmake/my_nav2_bringupConfig.cmake
+[1.675s] -- Installing: /home/kevin/ros2_ws/nav2/install/my_nav2_bringup/share/my_nav2_bringup/cmake/my_nav2_bringupConfig-version.cmake
+[1.675s] -- Installing: /home/kevin/ros2_ws/nav2/install/my_nav2_bringup/share/my_nav2_bringup/package.xml
+[1.676s] -- Installing: /home/kevin/ros2_ws/nav2/install/my_nav2_bringup/share/my_nav2_bringup/launch
+[1.676s] -- Installing: /home/kevin/ros2_ws/nav2/install/my_nav2_bringup/share/my_nav2_bringup/launch/localization_launch.py
+[1.676s] -- Installing: /home/kevin/ros2_ws/nav2/install/my_nav2_bringup/share/my_nav2_bringup/launch/slam_launch.py
+[1.677s] -- Installing: /home/kevin/ros2_ws/nav2/install/my_nav2_bringup/share/my_nav2_bringup/launch/cloned_multi_tb3_simulation_launch.py
+[1.677s] -- Installing: /home/kevin/ros2_ws/nav2/install/my_nav2_bringup/share/my_nav2_bringup/launch/navigation_launch.py
+[1.677s] -- Installing: /home/kevin/ros2_ws/nav2/install/my_nav2_bringup/share/my_nav2_bringup/launch/rviz_launch.py
+[1.678s] -- Installing: /home/kevin/ros2_ws/nav2/install/my_nav2_bringup/share/my_nav2_bringup/launch/bringup_launch.py
+[1.678s] -- Installing: /home/kevin/ros2_ws/nav2/install/my_nav2_bringup/share/my_nav2_bringup/launch/unique_multi_tb3_simulation_launch.py
+[1.679s] -- Installing: /home/kevin/ros2_ws/nav2/install/my_nav2_bringup/share/my_nav2_bringup/launch/tb3_simulation_launch.py
+[1.680s] -- Installing: /home/kevin/ros2_ws/nav2/install/my_nav2_bringup/share/my_nav2_bringup/params
+[1.680s] -- Installing: /home/kevin/ros2_ws/nav2/install/my_nav2_bringup/share/my_nav2_bringup/params/nav2_params.yaml
+[1.680s] -- Installing: /home/kevin/ros2_ws/nav2/install/my_nav2_bringup/share/my_nav2_bringup/params/nav2_multirobot_params_1.yaml
+[1.680s] -- Installing: /home/kevin/ros2_ws/nav2/install/my_nav2_bringup/share/my_nav2_bringup/params/nav2_multirobot_params_2.yaml
+[1.681s] -- Installing: /home/kevin/ros2_ws/nav2/install/my_nav2_bringup/share/my_nav2_bringup/params/nav2_multirobot_params_all.yaml
+[1.681s] -- Installing: /home/kevin/ros2_ws/nav2/install/my_nav2_bringup/share/my_nav2_bringup/maps
+[1.681s] -- Installing: /home/kevin/ros2_ws/nav2/install/my_nav2_bringup/share/my_nav2_bringup/maps/turtlebot3_world.yaml
+[1.682s] -- Installing: /home/kevin/ros2_ws/nav2/install/my_nav2_bringup/share/my_nav2_bringup/maps/turtlebot3_world.pgm
+[1.682s] -- Installing: /home/kevin/ros2_ws/nav2/install/my_nav2_bringup/share/my_nav2_bringup/rviz
+[1.682s] -- Installing: /home/kevin/ros2_ws/nav2/install/my_nav2_bringup/share/my_nav2_bringup/rviz/nav2_namespaced_view.rviz
+[1.682s] -- Installing: /home/kevin/ros2_ws/nav2/install/my_nav2_bringup/share/my_nav2_bringup/rviz/nav2_default_view.rviz
+[1.776s] Invoked command in '/home/kevin/ros2_ws/nav2/build/my_nav2_bringup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/kevin/ros2_ws/nav2/build/my_nav2_bringup

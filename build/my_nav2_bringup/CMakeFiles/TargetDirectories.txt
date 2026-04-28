@@ -1,0 +1,9 @@
+/home/kevin/ros2_ws/nav2/build/my_nav2_bringup/CMakeFiles/uninstall.dir
+/home/kevin/ros2_ws/nav2/build/my_nav2_bringup/CMakeFiles/my_nav2_bringup_uninstall.dir
+/home/kevin/ros2_ws/nav2/build/my_nav2_bringup/CMakeFiles/test.dir
+/home/kevin/ros2_ws/nav2/build/my_nav2_bringup/CMakeFiles/edit_cache.dir
+/home/kevin/ros2_ws/nav2/build/my_nav2_bringup/CMakeFiles/rebuild_cache.dir
+/home/kevin/ros2_ws/nav2/build/my_nav2_bringup/CMakeFiles/list_install_components.dir
+/home/kevin/ros2_ws/nav2/build/my_nav2_bringup/CMakeFiles/install.dir
+/home/kevin/ros2_ws/nav2/build/my_nav2_bringup/CMakeFiles/install/local.dir
+/home/kevin/ros2_ws/nav2/build/my_nav2_bringup/CMakeFiles/install/strip.dir

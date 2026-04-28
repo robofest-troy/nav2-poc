@@ -1,0 +1,9 @@
+/home/kevin/ros2_ws/nav2/build/my_robot_navigation/CMakeFiles/uninstall.dir
+/home/kevin/ros2_ws/nav2/build/my_robot_navigation/CMakeFiles/my_robot_navigation_uninstall.dir
+/home/kevin/ros2_ws/nav2/build/my_robot_navigation/CMakeFiles/test.dir
+/home/kevin/ros2_ws/nav2/build/my_robot_navigation/CMakeFiles/edit_cache.dir
+/home/kevin/ros2_ws/nav2/build/my_robot_navigation/CMakeFiles/rebuild_cache.dir
+/home/kevin/ros2_ws/nav2/build/my_robot_navigation/CMakeFiles/list_install_components.dir
+/home/kevin/ros2_ws/nav2/build/my_robot_navigation/CMakeFiles/install.dir
+/home/kevin/ros2_ws/nav2/build/my_robot_navigation/CMakeFiles/install/local.dir
+/home/kevin/ros2_ws/nav2/build/my_robot_navigation/CMakeFiles/install/strip.dir
